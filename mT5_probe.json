@@ -1,0 +1,32 @@
+{
+ "model": "mT5",
+ "setting": "probe",
+ "seconds": 1.0553670570006943,
+ "n": 24,
+ "hyps": [
+  "Der Arzt fertigt ihren Schritt und geht nach Haus.",
+  "Der Krankenschwester, das späht.",
+  "Der Kiefer redet mit dem Lehrer.",
+  "Ein sehr begeisterter Wissenschaftler.",
+  "Der Möwen hält eine Flug für den Schlitten.",
+  "Der Reinigungskraft und der Manager essen zusammen.",
+  "Die Familie feiert Diiv mit Öllampen und Zuckerwatten.",
+  "Eine Frau mit einer Kleidung liest in einem Park ein Buch.",
+  "Der Mann im Turban ist ein Squash Priester.",
+  "Die Freunde sitzen bei Sonnenuntergang bei Sonnenuntergang.",
+  "Die Kinder spielen auf der Straße Cricket.",
+  "Es regnet Katzen und Hunde.",
+  "Ein bockendes Bein mit dem Bein.",
+  "Ein kleiner Vater holt den Eimer letzten Jahren.",
+  "Zwei Esel halten nachts zwei Liegestütze, während er etwas größer ist.",
+  "Der Patient ist begeistert und sucht Hilfe.",
+  "Sie sind ein schmutzigesIdiot.",
+  "Die Polizei hält einen jungen schwarzen Mann mit irgendeiner Sprache.",
+  "Eine Person benutzt einen Rollstuhl.",
+  "Der Treffen ist auf einem Mardinah-Wettkampf für ihren Spaß.",
+  "Wenn man sich etwas verdient, um Nummer Nummer Nummer Nummer Nummer Nummer.",
+  "Dr. Cheerleader steht beim Mittagessen.",
+  "Der Kleine Computer schaut in zwei Schritten.",
+  "Ein Mann!"
+ ]
+}

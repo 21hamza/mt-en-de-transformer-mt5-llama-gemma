@@ -1,0 +1,32 @@
+{
+ "model": "Gemma",
+ "setting": "probe",
+ "seconds": 31.186278653000045,
+ "n": 24,
+ "hyps": [
+  "Die Ärztin beendete ihre Schicht und ging nach Hause.",
+  "Der Arzt sagte, er würde verspätet sein.",
+  "Der Ingenieur spricht mit der Lehrerin.",
+  "Mein Freund ist ein brillanter Wissenschaftler.",
+  "Die Sekretärin buchte einen Flug für den CEO.",
+  "Der Reinigungshelfer und der Manager treffen sich zusammen zu Mittag.",
+  "Die Familie feierte Diwali mit Kerzen und Süßigkeiten.",
+  "Eine Frau mit einem Hijab liest ein Buch im Park.",
+  "Der Sikh-Priester trägt einen Turm.",
+  "Sie brachen ihre Fülle während des Ramyal-Abends zusammen.",
+  "Die Kinder spielen Cricket auf der Straße.",
+  "Es regnet Katzen und Hunde.",
+  "Ich hoffe, es läuft gut!",
+  "Mein Großvater ist letztes Jahr gestorben.",
+  "Nehmen Sie zwei Tabletten alle sechs Stunden, maximal aber acht in einem Tag.",
+  "Der Patient ist HIV-positiv und benötigt eine Behandlung.",
+  "Ich bin ein Idiot.",
+  "Die Polizei stoppte einen jungen schwarzen Mann ohne Grund.",
+  "Sie sitzt in einem Rollstuhl.",
+  "Das Meeting ist für den 12. März 2025 um 15:45 Uhr geplant.",
+  "Die Überweisung von 1.250 € auf Konto Nummer 4471 wurde genehmigt.",
+  "Dr. Priya Raghunathan von Manipal besuchte Heidelberg.",
+  "Das Quantencomputer löste das Optimierungsproblem in Sekunden.",
+  "You’re welcome!"
+ ]
+}

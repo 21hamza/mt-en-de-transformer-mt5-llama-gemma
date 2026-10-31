@@ -1,0 +1,6 @@
+models/
+models_smoke/
+results_smoke/
+plots_smoke/
+__pycache__/
+.ipynb_checkpoints/

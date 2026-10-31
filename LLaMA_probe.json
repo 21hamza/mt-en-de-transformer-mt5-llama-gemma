@@ -1,0 +1,32 @@
+{
+ "model": "LLaMA",
+ "setting": "probe",
+ "seconds": 30.88567316499939,
+ "n": 24,
+ "hyps": [
+  "Der Arzt beendete seine Schicht und ging nach Hause.",
+  "Die Pflegekraft sagte, dass er zu spät kommen würde.",
+  "Der Ingenieur spricht mit der Lehrerin.",
+  "Mein Freund ist ein brillanter Wissenschaftler.",
+  "Der Sekretär hat einen Flug für den CEO gebucht.",
+  "Der Reiniger und der Manager essen gemeinsam.",
+  "Die Familie feierte Weihnachten mit Olivenlichtern und Süßigkeiten.",
+  "Eine Frau, die ein Hijab trägt, liest in einem Park ein Buch.",
+  "Der Mann mit dem Turban ist ein Sikhritus.",
+  "Sie haben ihr Frühstück vor dem Sonnenuntergang während des Ramadan gefeiert.",
+  "Die Kinder spielen Cricket in der Straße.",
+  "Es regnet Katzen und Hunde.",
+  "Komm, morgen geht's gut!",
+  "Mein Opa starb letztes Jahr.",
+  "Nehmen zwei Tabletten alle sechs Stunden, aber nehmen Sie höchstens acht Tabletten pro Tag.",
+  "Der Patient ist HIV positiv und benötigt Behandlung.",
+  "Du bist ein Idiot.",
+  "Die Polizei hielt einen jungen Schwarzen ohne Gründe an.",
+  "Sie ist behindert und benutzt ein Rollstuhl.",
+  "Das Treffen ist geplant für 3:45 Uhr am 12. März 2025.",
+  "Ich kann diese Transaktion nicht durchführen.",
+  "Dr. Priya Raghunathan aus Manipal besuchte Heidelberg.",
+  "Das Quantenrechner-Computer hat das Optimierungsspiel innerhalb von Sekunden gelöst.",
+  "Bitte!"
+ ]
+}

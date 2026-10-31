@@ -1,0 +1,11 @@
+torch>=2.4
+transformers>=4.50
+sentencepiece
+sacrebleu>=2.4
+protobuf
+accelerate
+huggingface_hub
+numpy
+pandas
+matplotlib
+jupyter
